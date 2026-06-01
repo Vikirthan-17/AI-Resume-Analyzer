@@ -98,7 +98,9 @@ The model achieved an accuracy of approximately:
 99.48%
 
 ## Application Screenshot
-![App Screenshot](/Users/vikirthan17/Documents/Project_04_AI_Resume_Analyzer/images/app_screenshot.png)
+
+![App Screenshot](images/app_screenshot.png)
 
 ## Confusion Matrix
-![Confusion Matrix](/Users/vikirthan17/Documents/Project_04_AI_Resume_Analyzer/images/confusion_matrix.png)
+
+![Confusion Matrix](images/confusion_matrix.png)
