@@ -96,3 +96,9 @@ The model achieved an accuracy of approximately:
 
 ```text
 99.48%
+
+## Application Screenshot
+![App Screenshot](images/app_screenshot.png)
+
+## Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
